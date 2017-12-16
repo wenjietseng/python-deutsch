@@ -43,6 +43,23 @@ name = 'Wen-Jie Tseng'
 # name[3] = ' ' # Python strings are immutable
 # slice[start:end:step]
 print(letters[10:])
-print(lettes[-3:])
+print(letters[-3:])
 print(letters[::4])
 print(letters[-1::-1])
+
+print(len(letters))
+print(letters.split('g'))
+
+cities = ['Taipei', 'Hsinchu', 'Tainan']
+cities_string = ','.join(cities)
+print(cities_string)
+
+for i in range(len(letters)):
+    print(letters[i])
+
+for city in cities:
+    print("I have been to ", city)
+
+print('can py3 print umlaut? äöüß')
+print('what about chinese? 我')
+print(len('我'))
