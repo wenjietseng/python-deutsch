@@ -9,7 +9,12 @@ https://hackmd.io/s/Skrs6KA-G
 ## More references
 Python scraping at DSC
 https://www.slideshare.net/tw_dsconf/python-83977397
+
 https://github.com/afunTW/dsc-crawling
+
+
+## Goals
+找一個API來玩
 
 
 WJ 13.12.17
