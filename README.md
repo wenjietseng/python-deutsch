@@ -3,13 +3,12 @@
 This project is going to do scraping, text mining, semantic analysis, and NLP with Python 3.
 I will provide python part, and Er-Hua will provide certificate experience of German.
 
-## Hackmd note
-https://hackmd.io/s/Skrs6KA-G
 
-## More references
+## We use slides from DSC 2017 as our materials
 Python scraping at DSC
 https://www.slideshare.net/tw_dsconf/python-83977397
-slides 46/242
+
+slides 78/242
 
 https://github.com/afunTW/dsc-crawling
 
@@ -18,4 +17,5 @@ https://github.com/afunTW/dsc-crawling
 找一個API來玩
 
 
-WJ 13.12.17
+## an easy start on Hackmd
+https://hackmd.io/s/Skrs6KA-G
