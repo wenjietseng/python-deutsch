@@ -13,9 +13,9 @@ slides 78/242
 https://github.com/afunTW/dsc-crawling
 
 
-## Goals
-找一個API來玩
+## Future plans
+scrapy, text mining, NLP, AWS, PostgreSQL
 
 
-## an easy start on Hackmd
+## Notes on Hackmd
 https://hackmd.io/s/Skrs6KA-G
