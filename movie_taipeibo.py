@@ -1,3 +1,6 @@
+# Scrap data from taipeibo movie website
+#
+
 import re
 import requests
 from bs4 import BeautifulSoup
