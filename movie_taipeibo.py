@@ -14,7 +14,7 @@ target_url = ["http://www.taipeibo.com/year/" + str(year) for year in (yrs)]
 # print(target_url) 
 responses = [requests.get(url) for url in target_url]
 
-all_rows = []
+all_rows = [] #空的list
 for html in responses:
     html.encoding = 'utf-8'
     soup = BeautifulSoup(html.text, "lxml")
@@ -40,6 +40,9 @@ for index, row in enumerate(all_rows):
     movie_df.loc[index] = data_want
 
 # print(movie_df.head())
+
+#funcion(var)
+#var.function
 
 # add a column to specify which year
 which_year = np.repeat(yrs, [100, 100, 47], axis=0)
